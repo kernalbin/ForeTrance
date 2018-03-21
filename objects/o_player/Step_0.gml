@@ -8,18 +8,20 @@ vspd = 0;
 
 if (up) {
 	vspd -= spd;
-	object_set_sprite(0, s_player_up);
+	sprite_index = s_player_up
 } else if (down) {
 	vspd += spd;
-	
+	sprite_index = s_player_down
 } else {
 	vspd = 0;	
 }
 
 if (left) {
 	hspd -= spd;
+	sprite_index = s_player_left
 } else if (right) {
 	hspd += spd;
+	sprite_index = s_player_right
 } else {
 	hspd = 0;	
 }
