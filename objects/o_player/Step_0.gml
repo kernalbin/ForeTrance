@@ -8,8 +8,10 @@ vspd = 0;
 
 if (up) {
 	vspd -= spd;
+	object_set_sprite(0, s_player_up);
 } else if (down) {
 	vspd += spd;
+	
 } else {
 	vspd = 0;	
 }

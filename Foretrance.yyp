@@ -39,14 +39,6 @@
             }
         },
         {
-            "Key": "17e2fecb-0969-4324-8377-132c2fdc4817",
-            "Value": {
-                "id": "2b583281-0431-4eff-89ed-e9701e746563",
-                "resourcePath": "objects\\o_player_right_down\\o_player_right_down.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "21b035e8-9e27-4fc0-a800-3d2a66cdd006",
             "Value": {
                 "id": "346db803-18e4-490a-86f6-71de733e1626",
@@ -143,35 +135,11 @@
             }
         },
         {
-            "Key": "955c951d-4986-4186-8f59-e709c8f3c897",
-            "Value": {
-                "id": "78b1056d-1cc7-4594-b5d7-8bced8a48842",
-                "resourcePath": "objects\\o_player_left_down\\o_player_left_down.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
-            "Key": "9e26afd6-df15-4b16-a8bb-697eff7031e5",
-            "Value": {
-                "id": "f8fa158f-d0f2-4e9e-b4f8-a9813286a98a",
-                "resourcePath": "objects\\o_player_left\\o_player_left.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "9e8b42d5-a7cd-409f-8bc9-87bfb50cd56a",
             "Value": {
                 "id": "402889ac-26db-41b8-8b8b-8be093aba6bf",
                 "resourcePath": "sprites\\s_player_down\\s_player_down.yy",
                 "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "a6d7e04b-e126-4124-87e0-e3631c3d86c4",
-            "Value": {
-                "id": "70f18678-6d9a-49f4-8f92-7a69ab1548d2",
-                "resourcePath": "objects\\o_player_up\\o_player_up.yy",
-                "resourceType": "GMObject"
             }
         },
         {
@@ -196,14 +164,6 @@
                 "id": "760d4e60-f17c-49ef-a20f-f12c8a17982e",
                 "resourcePath": "views\\b03c3d07-34e9-4587-b9b2-bab433f46694.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "b25fc239-b11d-42a4-aa8a-8fb3782423da",
-            "Value": {
-                "id": "67593ad8-a34b-4f4b-b8d5-b3250e1760ae",
-                "resourcePath": "objects\\o_player_right\\o_player_right.yy",
-                "resourceType": "GMObject"
             }
         },
         {
