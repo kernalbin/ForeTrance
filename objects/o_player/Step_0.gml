@@ -28,3 +28,11 @@ if (left) {
 
 x += hspd;
 y += vspd;
+
+if (down && left) {
+	sprite_index = s_player_left_down;
+}
+
+if (down && right) {
+	sprite_index = s_player_right_down;
+}
