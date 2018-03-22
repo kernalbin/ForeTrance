@@ -3,8 +3,9 @@
 
 Designed and Developed by:
 Spencer Huntsman
-and
 Jacob McRynolds
+and
+Wade Haas
 
 The wiki has controls in case you don't know them.
 
