@@ -18,4 +18,8 @@ Redoning the main character
 Adding some cool art
 And starting the storyline.
 
-https://trello.com/b/IUt4CWlX/fortrance
+## Trello:
+### https://trello.com/b/IUt4CWlX/fortrance
+
+## Discord
+### https://discord.gg/7qV2vhJ
