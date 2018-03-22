@@ -1,4 +1,4 @@
-# Fortrance
+# ForeTrance
 ## A game about dreams.
 
 Designed and Developed by:
