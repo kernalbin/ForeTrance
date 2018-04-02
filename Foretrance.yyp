@@ -263,6 +263,14 @@
             }
         },
         {
+            "Key": "d86ca44f-5b45-45ac-a2c4-3318fce858ec",
+            "Value": {
+                "id": "003cd546-3f83-463c-96e3-487b92c34edb",
+                "resourcePath": "objects\\o_ripple_animation\\o_ripple_animation.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "d8903572-c7d5-4b11-be3d-76186a7b19d7",
             "Value": {
                 "id": "4a07092b-30c9-4559-9cea-00003f19d102",
@@ -276,6 +284,14 @@
                 "id": "806393a7-d552-4dad-bd2d-5a5e19db1b00",
                 "resourcePath": "views\\ded44b48-cabe-4c89-bc54-0db2c0201314.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "e04494c4-c134-4b3d-bc76-e3318a670128",
+            "Value": {
+                "id": "ef7e7c96-cc52-4271-8054-84ce7fd8cb74",
+                "resourcePath": "sprites\\s_ripple_animation\\s_ripple_animation.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
