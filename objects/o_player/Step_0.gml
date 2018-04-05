@@ -1,4 +1,6 @@
 /// @description Move Player
+var bbox_side;
+
 var up = keyboard_check(ord("W"));
 var down = keyboard_check(ord("S"));
 var left = keyboard_check(ord("A"));
