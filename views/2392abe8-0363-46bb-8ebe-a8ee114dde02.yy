@@ -7,7 +7,8 @@
         "302a082d-90ba-4c0f-b4dd-b85e10231d93",
         "5356a6ce-7750-427e-b7de-25131e8a10bf",
         "4289a1e8-4a42-44f4-a4ec-7a394bc130dc",
-        "6c802de8-55b7-41e4-8b1a-386a2861190e"
+        "6c802de8-55b7-41e4-8b1a-386a2861190e",
+        "b0df06c1-341c-4e44-bba5-ef5fad80adbb"
     ],
     "filterType": "GMObject",
     "folderName": "House",

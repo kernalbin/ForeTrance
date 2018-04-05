@@ -287,6 +287,22 @@
             }
         },
         {
+            "Key": "b0df06c1-341c-4e44-bba5-ef5fad80adbb",
+            "Value": {
+                "id": "5ffb2cd5-cbb4-4bdc-a27b-830b96833b73",
+                "resourcePath": "objects\\o_door_inside\\o_door_inside.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "b0e48cb8-a21c-4b07-819d-46a70172aa2c",
+            "Value": {
+                "id": "41a8fdbe-de70-417f-9f7b-307083e6c5d2",
+                "resourcePath": "sprites\\s_door_inside\\s_door_inside.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "b4486949-ff94-4aff-9da8-f22ae95e7353",
             "Value": {
                 "id": "e88c0fde-aa73-4809-838d-35cc0b8656f1",
