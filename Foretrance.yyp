@@ -31,14 +31,6 @@
     },
     "resources": [
         {
-            "Key": "04ae44ca-102b-4880-9c2e-bc424725b7a8",
-            "Value": {
-                "id": "1c4e110f-1a3c-4d4c-bfc5-030634f73160",
-                "resourcePath": "sprites\\s_player_collision\\s_player_collision.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "16dc1085-cd32-4a13-b5a2-0d0359d1ba93",
             "Value": {
                 "id": "c14ea03b-bcb4-4694-a689-afce8b15efd8",
