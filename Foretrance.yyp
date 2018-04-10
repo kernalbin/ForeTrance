@@ -335,6 +335,14 @@
             }
         },
         {
+            "Key": "cfd5c3c7-98b9-468f-b0bb-2cab509a5eb8",
+            "Value": {
+                "id": "f601329f-8af9-4e4b-973f-4c59da466b79",
+                "resourcePath": "sprites\\s_tile_house\\s_tile_house.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "d436e9eb-5b06-4306-9269-26b1397e4f9a",
             "Value": {
                 "id": "9803d38c-d621-49f8-9718-44eeb3906c75",
