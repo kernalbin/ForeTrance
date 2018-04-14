@@ -34,8 +34,8 @@ if (down && right) sprite_index = s_player_right_down;
 //Horizontal collision
 if (hspd > 0) bbox_side = bbox_right; else bbox_side = bbox_left;
 if (tilemap_get_at_pixel(tilemap,bbox_side+hspd,bbox_top) != 0) || (tilemap_get_at_pixel(tilemap,bbox_side+hspd,bbox_bottom) != 0) {
-	if (hspd > 0) x = x - (x mod 16) + 15 - (bbox_right - x);
-	else x = x - (x mod 16) - (bbox_left - x);
+	if (hspd > 0) x = x - (x mod 16) + 15 - (bbox_left - x); //Right
+	else x = x - (x mod 16) - (bbox_right - x); // Left
 	hspd = 0;
 }
 x += hspd;
