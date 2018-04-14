@@ -5,8 +5,9 @@ if (enterHouse) {
 }	
 hspd = 0;
 vspd = 0;			
-// We dont want to have it do this automatically
-// Pick a key as an action key for now say e
-// Define it as the action key in the create event
-// Then check for its press before you run the room_goto(); code
+// Good job, though im wondering if it would be better for you to check your distance to the door
+// Instead of collisions so that you do need to be right at the door
+// Just within a few pixels of touching it.
+// So instead of in a collision event put it inside
+// A new step event, like action checks or something
 // - Spencer

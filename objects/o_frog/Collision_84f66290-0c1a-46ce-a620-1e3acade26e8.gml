@@ -1,1 +1,1 @@
-room_goto(r_intro);
+//room_goto(r_intro); I disabled this because its annoying when testing.
